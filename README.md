@@ -1,3 +1,105 @@
+# 👋 Hi, I'm Aashish Jha
+
+### 💻 Frontend Developer | CSE Student | Tech Enthusiast
+
+I'm a Computer Science student passionate about **Frontend Development, IoT, Machine Learning, and Cloud Technologies**. I enjoy turning ideas into practical projects and continuously improving my technical skills.
+
+---
+
+## 🚀 About Me
+
+* 🎓 Computer Science Student at **Pandit Deendayal Energy University (PDEU)**
+* 💻 Focused on **Frontend Development**
+* 🌐 Building responsive and interactive websites
+* 🤖 Interested in **Machine Learning & IoT**
+* ☁️ Exploring **Cloud Computing & DevOps**
+* 🔧 Love solving problems and troubleshooting projects
+* 📚 Always learning and building new things
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+HTML • CSS • JavaScript
+
+### 🤖 AI / Machine Learning
+
+Python • Machine Learning • Data Analysis
+
+### 🔌 IoT & Hardware
+
+ESP32 • Arduino • L293D • Bluetooth • IoT
+
+### ☁️ Cloud & DevOps
+
+AWS • Azure • Docker • Kubernetes • CI/CD
+
+### 🧰 Tools
+
+Git • GitHub • VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🏏 AJ Bat Store
+
+A frontend-based cricket bat store website designed with a clean and responsive user interface.
+
+**Technologies:** HTML • CSS • JavaScript
+
+---
+
+### ♿ IoT-Based Smart Wheelchair
+
+An IoT project focused on controlling a wheelchair using ESP32, motors, motor drivers and Bluetooth communication.
+
+**Technologies:** ESP32 • IoT • Bluetooth • L293D • DC Motors
+
+---
+
+### 🌊 Underwater Object Detection
+
+A machine-learning project focused on detecting underwater objects for marine monitoring applications.
+
+**Technologies:** Python • Machine Learning
+
+---
+
+### 📈 Stock Price Movement Forecasting
+
+Exploring stock price movement forecasting using **Gann Cycle Decoder (GCD)** and time-series analysis.
+
+**Technologies:** Python • Machine Learning • Time-Series Analysis
+
+---
+
+## 🎯 Currently Learning
+
+* Advanced JavaScript
+* Responsive Web Design
+* Modern Frontend Development
+* Machine Learning
+* Cloud & DevOps
+* Building real-world projects
+
+---
+
+## 📊 GitHub
+
+💡 **Code. Build. Learn. Improve.**
+
+I use GitHub to document my projects, experiment with new technologies, and share what I build.
+
+---
+
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aashishjha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashishjha) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Aj ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aashish) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@AashishJha-g1d) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aashish Jha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashish.jce22@sot.pdpu.ac.in) 
